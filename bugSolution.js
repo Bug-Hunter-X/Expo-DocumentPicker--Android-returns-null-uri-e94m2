@@ -1,0 +1,1 @@
+The provided solution includes comprehensive error handling to gracefully manage cases where DocumentPicker.getDocumentAsync() returns a null uri.  Instead of crashing, the app now logs an error and offers a clear message to the user.
